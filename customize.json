@@ -1,1 +1,23 @@
-
+{
+  "greeting": "Heylo",
+  "name": "Arpie",
+  "greetingText": "appu bhaiya, burgir, vadapav",
+  "wishText": "May the Kindle always be with you! 😘",
+  "imagePath": "img/arpie.png",
+  "text1": "Since its your birthday, i have a confession to make: U dmed me first",
+  "textInChatBox": "Happy birthday ARPIE!! [insert a long para]",
+  "sendButtonLabel": "Send",
+  "text2": "I'll leave the para up to you",
+  "text3": "you know how bad my english is",
+  "text4": "so i coded ye website for",
+  "text4Adjective": "you",
+  "text5Entry": "I'm grateful cause",
+  "text5Content": "you are my besfren",
+  "smiley": "HAPPIEST BIRTHDAY to",
+  "bigTextPart1": "the SMARTEST",
+  "bigTextPart2": "PRETTIEST",
+  "wishHeading": "and my fav appu 🎁",
+  "outroText": "Okay, now come back and tell me if you liked it.",
+  "replayText": "Or click, if you want to watch it again.",
+  "outroSmiley": "🍔"
+}
